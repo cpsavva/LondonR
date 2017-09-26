@@ -1,0 +1,10 @@
+body {
+	background-image: url("./images/dark-triangles.png");
+}
+.jumbotron {
+	background-image: url("./images/sandro-schuh-80814.jpg");
+}
+
+.blurb {
+	background-color: gray;
+}
