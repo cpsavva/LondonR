@@ -24,7 +24,7 @@ body {
 	width: 100%;
 	opacity: 0;
 	transition: .5s ease;
-	background-color: transparent;
+	background-color: grey;
 }
 
 .thumbnail:hover .overlay{
