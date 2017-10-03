@@ -72,3 +72,10 @@ body {
   background: #686c6e;
   text-decoration: none;
 }
+.btn:active{
+	background: #686c6e;
+	text-decoration: none;
+}
+iframe {
+	display: none;
+}
