@@ -6,6 +6,7 @@ font-family: 'Sanchez', serif;
 body {
 	background-image: url("./images/dark-triangles.png");
 	font-family: 'Sanchez', serif;
+	padding-top: 70px;
 }
 .jumbotron {
 	background-image: url("./images/sandro-schuh-80814-copy.jpg");
@@ -78,4 +79,7 @@ body {
 }
 iframe {
 	display: none;
+}
+.bio{
+	color: white;
 }
