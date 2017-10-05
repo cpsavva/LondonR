@@ -9,9 +9,11 @@ body {
 	padding-top: 70px;
 }
 .jumbotron {
-	background-image: url("./images/sandro-schuh-80814-copy.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
+}
+.homepage{
+	background-image: url("./images/sandro-schuh-80814-copy.jpg");
 }
 .logo{
 	font-family: 'Permanent Marker', cursive;
@@ -82,4 +84,17 @@ iframe {
 }
 .bio{
 	color: white;
+}
+.serviceType{
+	color: white;
+}
+.testing{
+	padding-top: 100px;
+	height: 500px;
+}
+.navtags{
+	position: fixed;
+}
+.eshop{
+	background-image: url("./images/parker-burchfield-224850.jpg");
 }
