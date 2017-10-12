@@ -95,6 +95,13 @@ iframe {
 .navtags{
 	position: fixed;
 }
-.eshop{
+.eShop{
 	background-image: url("./images/parker-burchfield-224850.jpg");
+}
+
+.careerPic {
+	background-image: url("./images/clem-onojeghuo-210707.jpeg");
+}
+.formPic{
+	background-image: url("./images/helloquence-51716.jpg");
 }
