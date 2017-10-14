@@ -6,11 +6,14 @@ font-family: 'Sanchez', serif;
 body {
 	background-image: url("./images/dark-triangles.png");
 	font-family: 'Sanchez', serif;
+	padding-top: 70px;
 }
 .jumbotron {
-	background-image: url("./images/sandro-schuh-80814-copy.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
+}
+.homepage{
+	background-image: url("./images/sandro-schuh-80814-copy.jpg");
 }
 .logo{
 	font-family: 'Permanent Marker', cursive;
@@ -78,4 +81,49 @@ body {
 }
 iframe {
 	display: none;
+}
+.bio{
+	color: white;
+}
+.serviceType{
+	color: white;
+}
+.testing{
+	padding-top: 100px;
+	height: 500px;
+}
+.navtags{
+	position: fixed;
+}
+.eShop{
+	background-image: url("./images/parker-burchfield-224850.jpg");
+	text-shadow: 2px 2px 5px lightgrey;
+}
+.careerPic {
+	background-image: url("./images/clem-onojeghuo-210707.jpeg");
+	text-shadow: 2px 2px 5px lightgrey;
+}
+.formPic{
+	background-image: url("./images/helloquence-51716.jpg");
+	text-shadow: 2px 2px 5px lightgrey;
+}
+.airsoftJumbo{
+	background-image: url(./images/helmet.jpg);
+	text-shadow: 2px 2px 5px lightgrey;
+}
+.coachJumbo{
+	background-image: url(./images/geoff-scott-124251.jpg);
+		text-shadow: 2px 2px 5px lightgrey;
+}
+.enterJumbo{
+	background-image: url(./images/james-sutton-198306.jpg);
+	text-shadow: 2px 2px 5px lightgrey;
+}
+.secureJumbo{
+	background-image: url(./images/collin-armstrong-195852.jpg);
+	text-shadow: 2px 2px 5px lightgrey;
+}
+.trainJumbo{
+	background-image: url(./images/nicolas-barbier-garreau-256433.jpg);
+	text-shadow: 2px 2px 5px lightgrey;
 }
