@@ -79,9 +79,7 @@ body {
 	background: #686c6e;
 	text-decoration: none;
 }
-iframe {
-	display: none;
-}
+
 .bio{
 	color: white;
 }
@@ -126,4 +124,23 @@ iframe {
 .trainJumbo{
 	background-image: url(./images/nicolas-barbier-garreau-256433.jpg);
 	text-shadow: 2px 2px 5px lightgrey;
+}
+.aboutPic{
+	background-image: url(./images/nasty_fabric.png);
+	background-repeat: repeat;
+	background-size: auto;
+}
+.content{
+  min-height: calc(100vh - 70px);
+}
+
+footer{
+	background-color: #686c6e;
+	height: 200px;
+	color: white;
+	padding-top: 20px;
+}
+.icons {
+	height: 48px;
+	width: 48px;
 }
