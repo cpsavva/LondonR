@@ -101,7 +101,7 @@ a:hover{
 .formPic{
 	background-image: url("./images/helloquence-51716.jpg");
 }
-.airsoftJumbo{
+/*.airsoftJumbo{
 	background-image: url(./images/helmet.jpg);
 }
 .coachJumbo{
@@ -115,7 +115,7 @@ a:hover{
 }
 .trainJumbo{
 	background-image: url(./images/nicolas-barbier-garreau-256433.jpg);
-}
+}*/
 .aboutPic{
 	background-image: url(./images/nasty_fabric.png);
 	background-repeat: repeat;
