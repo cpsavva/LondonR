@@ -148,12 +148,21 @@ footer{
 .overview{
 	color: white;
 }
+/*Gallery*/
+.carousel {
+	margin-bottom: 100px;
+}
+.carousel-inner img {
+  margin: auto;
+}
+
 /*Staff Modal*/
 .profilePic{
 	background-image: url(./images/nasty_fabric.png); 
 }
 .staff{
 	font-size: 25px;
+	margin-bottom: 100px;
 }
 .modal-content {
 	background-image: url(./images/nasty_fabric.png);
