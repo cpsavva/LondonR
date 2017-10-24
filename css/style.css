@@ -8,16 +8,21 @@ body {
 	font-family: 'Sanchez', serif;
 	padding-top: 70px;
 }
+.dropdown-menu{
+	background-color: #333;
+}
+.dropdown-menu>li>a {
+	color: #9d9d9d;
+}
 .jumbotron {
 	background-size: cover;
     background-repeat: no-repeat;
 }
-.homepage{
-	background-image: url("./images/sandro-schuh-80814-copy.jpg");
+.homepage {
+	background-image: url("sandro-schuh-80814-copy.jpg");
 }
 .logo{
 	font-family: 'Permanent Marker', cursive;
-	text-shadow: 2px 2px 5px #686c6e;
 }
 
 .thumbnail {
@@ -93,13 +98,15 @@ a:hover{
 
 
 .eShop{
-	background-image: url("./images/parker-burchfield-224850.jpg");
+	background-image: url("parker-burchfield-224850.jpg");
 }
 .careerPic {
-	background-image: url("./images/clem-onojeghuo-210707.jpeg");
+	/*background-image: url("./images/clem-onojeghuo-210707.jpeg");*/
+	background-image: url("clem-onojeghuo-210707.jpeg");
+
 }
 .formPic{
-	background-image: url("./images/helloquence-51716.jpg");
+	background-image: url("helloquence-51716.jpg");
 }
 /*.airsoftJumbo{
 	background-image: url(./images/helmet.jpg);
