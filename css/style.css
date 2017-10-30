@@ -94,6 +94,7 @@ a:hover{
 
 .bio{
 	color: white;
+	margin-bottom: 100px;
 }
 
 
@@ -154,6 +155,7 @@ footer{
 }
 .overview{
 	color: white;
+	/*margin: 40px 50px 40px 50px;*/
 }
 /*Gallery*/
 .carousel {
@@ -165,7 +167,8 @@ footer{
 
 /*Staff Modal*/
 .profilePic{
-	background-image: url(./images/nasty_fabric.png); 
+	background-image: url(./images/nasty_fabric.png);
+	cursor: pointer; 
 }
 .staff{
 	font-size: 25px;
@@ -173,4 +176,10 @@ footer{
 }
 .modal-content {
 	background-image: url(./images/nasty_fabric.png);
+}
+
+/*About page*/
+.services{
+	margin: 10px;
+	background-image: url(./images/dark-triangles.png);
 }
