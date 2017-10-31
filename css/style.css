@@ -30,6 +30,7 @@ body {
 	position: relative;
 	border: groove #686c6e 2px;
 }
+
 .overlay{
 	position: absolute;
 	top: 0;
@@ -167,7 +168,8 @@ footer{
 
 /*Staff Modal*/
 .profilePic{
-	background-image: url(./images/backgrounds/nasty_fabric.png);
+	background-color: black;
+	/*background-image: url(./images/backgrounds/nasty_fabric.png);*/
 	cursor: pointer; 
 }
 .staff{

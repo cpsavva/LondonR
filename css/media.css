@@ -2,6 +2,9 @@
 	.services{
 		display: block;
 	}
+	.thumbImg{
+		opacity: 0.4;
+	}
 	.overlay{
 		opacity: 1;
 		background-color: transparent;
