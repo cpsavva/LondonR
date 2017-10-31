@@ -4,7 +4,7 @@ font-family: 'Sanchez', serif;
 */
 
 body {
-	background-image: url("./images/dark-triangles.png");
+	background-image: url("./images/backgrounds/dark-triangles.png");
 	font-family: 'Sanchez', serif;
 	padding-top: 70px;
 }
@@ -19,7 +19,7 @@ body {
     background-repeat: no-repeat;
 }
 .homepage {
-	background-image: url("sandro-schuh-80814-copy.jpg");
+	background-image: url("./images/backgrounds/sandro-schuh-fade.jpg");
 }
 .logo{
 	font-family: 'Permanent Marker', cursive;
@@ -94,19 +94,20 @@ a:hover{
 
 .bio{
 	color: white;
+	margin-bottom: 100px;
 }
 
 
 .eShop{
-	background-image: url("parker-burchfield-224850.jpg");
+	background-image: url("./images/backgrounds/parker-burchfield-fade.jpg");
 }
 .careerPic {
 	/*background-image: url("./images/clem-onojeghuo-210707.jpeg");*/
-	background-image: url("clem-onojeghuo-210707.jpeg");
+	background-image: url("./images/backgrounds/clem-onojeghuo-fade.jpeg");
 
 }
 .formPic{
-	background-image: url("helloquence-51716.jpg");
+	background-image: url("./images/backgrounds/helloquence-fade.jpg");
 }
 /*.airsoftJumbo{
 	background-image: url(./images/helmet.jpg);
@@ -124,7 +125,7 @@ a:hover{
 	background-image: url(./images/nicolas-barbier-garreau-256433.jpg);
 }*/
 .aboutPic{
-	background-image: url(./images/nasty_fabric.png);
+	background-image: url(./images/backgrounds/nasty_fabric.png);
 	background-repeat: repeat;
 	background-size: auto;
 }
@@ -154,6 +155,7 @@ footer{
 }
 .overview{
 	color: white;
+	/*margin: 40px 50px 40px 50px;*/
 }
 /*Gallery*/
 .carousel {
@@ -165,12 +167,19 @@ footer{
 
 /*Staff Modal*/
 .profilePic{
-	background-image: url(./images/nasty_fabric.png); 
+	background-image: url(./images/backgrounds/nasty_fabric.png);
+	cursor: pointer; 
 }
 .staff{
 	font-size: 25px;
 	margin-bottom: 100px;
 }
 .modal-content {
-	background-image: url(./images/nasty_fabric.png);
+	background-image: url(./images/backgrounds/nasty_fabric.png);
+}
+
+/*About page*/
+.services{
+	margin: 10px;
+	background-image: url(./images/backgrounds/dark-triangles.png);
 }

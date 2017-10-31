@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+	.services{
+		display: block;
+	}
+	.overlay{
+		opacity: 1;
+		background-color: transparent;
+	}
+}
