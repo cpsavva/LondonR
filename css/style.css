@@ -188,4 +188,5 @@ footer{
 /*Download*/
 .forms {
 	background-image: url(./images/backgrounds/dark-triangles.png);
+	margin-bottom: 10px;
 }
