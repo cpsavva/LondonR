@@ -6,4 +6,11 @@
 		opacity: 1;
 		background-color: transparent;
 	}
+	.staffOverlay{
+		opacity: 0;
+		background-color: grey;
+	}
+	.thumbImg{
+		opacity: 0.4;
+	}
 }

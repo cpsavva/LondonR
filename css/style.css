@@ -49,12 +49,6 @@ body {
 	border: groove #686c6e 2px;
 }
 
-/*.image {
-  display: block;
-  width: 100%;
-  height: auto;
-}*/
-
 .text{
 	color: white;
 	font-size: 40px;
@@ -167,9 +161,11 @@ footer{
 
 /*Staff Modal*/
 .profilePic{
-	background-image: url(./images/backgrounds/nasty_fabric.png);
+	background-color: black;
+	/*background-image: url(./images/backgrounds/nasty_fabric.png);*/
 	cursor: pointer; 
 }
+
 .staff{
 	font-size: 25px;
 	margin-bottom: 100px;
@@ -182,4 +178,9 @@ footer{
 .services{
 	margin: 10px;
 	background-image: url(./images/backgrounds/dark-triangles.png);
+}
+/*Download*/
+.forms {
+	background-image: url(./images/backgrounds/dark-triangles.png);
+	margin-bottom: 10px;
 }
