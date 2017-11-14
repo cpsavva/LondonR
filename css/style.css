@@ -75,14 +75,9 @@ a:hover{
   text-decoration: none;
 }
 
-.btn:hover {
+.btn:hover, .btn:active, .btn:visited {
  	background: #686c6e;
  	text-decoration: none;
-	border: solid #686c6e 2px;
-}
-.btn:active{
-	background: #686c6e;
-	text-decoration: none;
 	border: solid #686c6e 2px;
 }
 
@@ -184,3 +179,5 @@ footer{
 	background-image: url(./images/backgrounds/dark-triangles.png);
 	margin-bottom: 10px;
 }
+
+
