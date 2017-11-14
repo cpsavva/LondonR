@@ -30,7 +30,6 @@ body {
 	position: relative;
 	border: groove #686c6e 2px;
 }
-
 .overlay{
 	position: absolute;
 	top: 0;
@@ -49,12 +48,6 @@ body {
 	opacity: 1;
 	border: groove #686c6e 2px;
 }
-
-/*.image {
-  display: block;
-  width: 100%;
-  height: auto;
-}*/
 
 .text{
 	color: white;
@@ -172,6 +165,7 @@ footer{
 	/*background-image: url(./images/backgrounds/nasty_fabric.png);*/
 	cursor: pointer; 
 }
+
 .staff{
 	font-size: 25px;
 	margin-bottom: 100px;
