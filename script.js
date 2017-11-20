@@ -17,3 +17,12 @@
 // $('.carousel').carousel({
 //   interval: 3000
 // })
+
+$(document).ready(function() {  
+   $("#carousel-example-generic").swiperight(function() {  
+      $("#carousel-example-generic").carousel('prev');  
+    });  
+   $("#carousel-example-generic").swipeleft(function() {  
+      $("#carousel-example-generic").carousel('next');  
+   });  
+});  
