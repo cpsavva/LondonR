@@ -13,4 +13,7 @@
 	.thumbImg{
 		opacity: 0.4;
 	}
+	.carousel-control{
+		display: none;
+	}
 }
