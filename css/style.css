@@ -180,4 +180,16 @@ footer{
 	margin-bottom: 10px;
 }
 
+/*Career Page*/
+.careerForm form,
+.careerForm form div {
+    display: inline;
+    text-align: center;
+}
+
+.careerForm button {
+    display: inline;
+    vertical-align: middle;
+}
+
 
