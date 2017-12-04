@@ -60,6 +60,7 @@ body {
 }
 a:hover{
 	border: dotted #686c6e 0px;
+	text-decoration-line: none;
 }
 
 .btn {
@@ -133,7 +134,7 @@ footer{
 	margin-bottom: 100px;
 }
 .modal-content {
-	background-image: url(./images/backgrounds/nasty_fabric.png);
+	background-image: url(./images/backgrounds/jumboLogo_copy.png);
 }
 
 /*About page*/
@@ -158,4 +159,10 @@ footer{
     vertical-align: middle;
 }
 
+
+/*eShop*/
+.eshopItems{
+	background-image: url(./images/backgrounds/jumboLogo_copy.png);
+	cursor: pointer; 
+}
 
